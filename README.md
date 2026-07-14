@@ -3,10 +3,10 @@
 A full-stack blog application with complete CRUD functionality, built with React, Node.js/Express, and MongoDB.
 
 ## Features
-- Create, read, update, and delete blog posts
-- Category tagging for posts
-- Clean, card-based UI with custom Navy/Coral theming
-- RESTful API backend with MongoDB persistence
+- ✍️ Create, read, update, and delete blog posts
+- 🏷️ Category tagging for posts
+- 🎨 Clean, card-based UI with custom Navy/Coral theming
+- 🔗 RESTful API backend with MongoDB persistence
 
 ## Screenshots
 
@@ -19,9 +19,11 @@ A full-stack blog application with complete CRUD functionality, built with React
 **Backend:** Node.js, Express, MongoDB, Mongoose
 
 ## Project Structure
+```
 BlogApp/
 ├── backend/     # Express API + MongoDB models
 └── frontend/    # React UI
+```
 
 ## Getting Started
 
